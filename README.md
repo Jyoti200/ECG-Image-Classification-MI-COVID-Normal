@@ -30,6 +30,10 @@ OpenCV
 
 Ensure these dependencies are installed before running the application.
 
+**Data**
+We can get the open-source data by following this link:
+https://data.mendeley.com/datasets/gwbz3fsgp8/1
+
 
 
 
