@@ -2,20 +2,22 @@
 A Comprehensive Approach to Automated Classification of Cardiac and COVID-19 Patients Using 12-Lead ECG Images – Integrating Machine Learning, Deep Neural Network, Convolutional Neural Network
 
 **Table of Contents**
+
 1. Introduction
-2. Features
-3. Dependencies
+2. Dependencies
 
 
 **Introduction**
-SmartECG is designed to enhance the diagnostic process by leveraging state-of-the-art technologies in artificial intelligence. It focuses on automated classification of patients based on 12-lead ECG images, providing valuable insights for both cardiac and COVID-19-related conditions.
+SmartECG is designed to enhance the diagnostic process by leveraging state-of-the-art technologies in artificial intelligence. It focuses on automated classification of patients based on 12-lead ECG images, providing valuable insights into cardiac and COVID-19-related conditions.
 
-**Features**
-Automated Classification: Utilizes machine learning, deep neural networks, and convolutional neural networks for accurate and automated patient classification.
+**Machine** **Learning** **Algorithm**
+Support Vector Machine was used to classify ECG images and got 85% accuracy. Random Forest got 83%  and Decision Tree to classify ECG images got 76% accuracy.
 
-Comprehensive Approach: Integrates information from 12-lead ECG images to provide a holistic understanding of the patient's condition.
+**CNN**
+As Convolutional neural networks are more suitable for image classification, CNN architecture with a relu activation function was built, the optimizer was ADAM and the loss calculated was Sparse_categorical_crossentropy.
+The model achieved 87% accuracy.
 
-Versatility: Capable of distinguishing between cardiac and COVID-19 patients, contributing to efficient and timely diagnosis.
+![image](https://github.com/Jyoti200/ECG_image_Classification_for_Myocardia_infarction_Covid-19_Normal/assets/86410759/3c3b09cf-5c39-4353-a525-d2c9671a37e1)
 
 
 **Dependencies**
