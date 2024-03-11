@@ -17,8 +17,6 @@ Comprehensive Approach: Integrates information from 12-lead ECG images to provid
 
 Versatility: Capable of distinguishing between cardiac and COVID-19 patients, contributing to efficient and timely diagnosis.
 
-User-Friendly Interface: Designed with simplicity in mind, allowing easy interaction for healthcare professionals and researchers.
-
 
 **Dependencies**
 SmartECG relies on the following dependencies:
