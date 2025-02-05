@@ -16,12 +16,6 @@ This project classifies ECG images into 5 categories: Myocardial Infarction (MI)
    git clone https://github.com/Jyoti200/ECG-Image-Classification-MI-COVID-Normal.git
    cd ECG-Image-Classification-MI-COVID-Normal
 
-**Table of Contents**
-
-1. Introduction
-2. Dependencies
-
-
 **Introduction**
 SmartECG is designed to enhance the diagnostic process by leveraging state-of-the-art technologies in artificial intelligence. It focuses on automated classification of patients based on 12-lead ECG images, providing valuable insights into cardiac and COVID-19-related conditions.
 
