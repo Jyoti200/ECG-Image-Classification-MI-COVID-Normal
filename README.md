@@ -21,6 +21,8 @@ Confusion Matrix: ![image](https://github.com/user-attachments/assets/56a679fc-6
 🔥 Demo
 ![image](https://github.com/user-attachments/assets/9ca56fda-ef15-4e4a-99f6-42866bc6118e)
 
+Saliency Map For Interpretability
+![saliency_maps](https://github.com/user-attachments/assets/511377ac-a949-4be2-84ec-fe78d131643d)
 
 🤝 Contributing
 Pull requests are welcome. Please open an issue first for discussions.
