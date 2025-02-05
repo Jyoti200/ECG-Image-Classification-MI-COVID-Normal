@@ -1,6 +1,21 @@
 # SmartECG
 A Comprehensive Approach to Automated Classification of Cardiac and COVID-19 Patients Using 12-Lead ECG Images – Integrating Machine Learning, Deep Neural Network, Convolutional Neural Network
 
+
+## 📌 Overview
+This project classifies ECG images into 5 categories: Myocardial Infarction (MI), COVID-19, History of Myocardial Infarction, Abnormal heartbeat and Normal using deep learning.
+
+## 🚀 Features
+- Uses a Convolutional Neural Network (CNN) for image classification
+- Trained on the data [https://data.mendeley.com/datasets/gwbz3fsgp8/1]
+- Flask web app for easy image upload and prediction
+
+## 🔧 Installation & Setup
+1. Clone the repo:
+   ```sh
+   git clone https://github.com/Jyoti200/ECG-Image-Classification-MI-COVID-Normal.git
+   cd ECG-Image-Classification-MI-COVID-Normal
+
 **Table of Contents**
 
 1. Introduction
@@ -30,9 +45,6 @@ OpenCV
 
 Ensure these dependencies are installed before running the application.
 
-**Data**
-We can get the open-source data by following this link:
-https://data.mendeley.com/datasets/gwbz3fsgp8/1
 
 
 
